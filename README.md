@@ -1,4 +1,4 @@
-## Olá! Meu nome é Lorenzo Ribeiro
+## Olá! Meu nome é Lorenzo Ribeiro, estudante de Sistemas para Internet
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JS, HTML, CSS3, GIT and REACTJS
