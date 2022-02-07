@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JS, HTML, CSS3, GIT and REACTJS
 - ⚡ Fun fact: Apesar de morar no Brasil a 18 anos, eu nasci na Itália
 
-<div align="center">
+<div >
   <a href="https://github.com/LorenzoGRibeiro">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LorenzoGRibeiro&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoGRibeiro&layout=compact&langs_count=7&theme=bear"/>
