@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Lorenzo Ribeiro, estudante de Sistemas para Internet
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning JS, HTML, CSS3, GIT and REACTJS
+- 🌱 I’m currently learning JS, HTML, CSS3, GIT and Asp.NET(MVC)
 - ⚡ Fun fact: Apesar de morar no Brasil a 18 anos, eu nasci na Itália
 
 <div align="center">
