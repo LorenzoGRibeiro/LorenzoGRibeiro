@@ -1,6 +1,6 @@
 ## Olá! Meu nome é Lorenzo Ribeiro, estudante de Sistemas para Internet
 
-- 🔭 I’m currently working on ContSelf
+- 🔭 I’m currently working on Atomos Hyla Software
 - 🌱 I’m currently learning JS, HTML, CSS3, GIT and Asp.NET(MVC)
 - ⚡ Fun fact: Apesar de morar no Brasil a 18 anos, eu nasci na Itália
  <!--
