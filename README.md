@@ -2,13 +2,13 @@
 
 - 🔭 I’m currently working on Atomos Hyla Software
 - 🌱 I’m currently learning JS, HTML, CSS3, GIT and Asp.NET(MVC), Angular, Angularjs, React, TypeScript
- <!--
+-  Currentily Jobs : https://cospaces.com.br/home
+ 
 <div align="center">
   <a href="https://github.com/LorenzoGRibeiro">
     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=LorenzoGRibeiro&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
     <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LorenzoGRibeiro&layout=compact&langs_count=7&theme=bear"/>
  </div>
--->
  <!--Languages Icons-->
  <h3 align="left">Languages and Tools:</h3>
 <p align="left">
