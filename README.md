@@ -36,6 +36,6 @@ Nowadays I decided to focus on my TwitchTV channel and make entertainment with c
 
 ## Curiosities about me
 
-* I did 10 years of music classes playing classical guitar and singing in a choir which was  reference in the São Paulo state at that time. My final presentation on this road was at the "Sala São Paulo", which is the biggest and greatest theather in Brazil;
-* I had a "sensei" which teach a lot about programming and he made a huge progress with this knowlegment. Today I just made the same he did for me on the past starting my own community;
 * I really like to help people.
+
+* I have played as a gamer for 4 years, Counter Stricke Global Offensive, as a high level player
