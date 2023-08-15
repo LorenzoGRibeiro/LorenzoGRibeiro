@@ -32,7 +32,7 @@ Nowadays I decided to focus on my TwitchTV channel and make entertainment with c
 * **Age**: 21
 * **Living in**: Belo Horizonte - MG, Brazil
 * **Stack**: C# - Angular - Bootstrap - SQL - AWS
-* **University**: Nope yet. Only have one I.T associate degree.
+* **University**: Not yet. I am currently studying to enter college.
 
 ## Curiosities about me
 
