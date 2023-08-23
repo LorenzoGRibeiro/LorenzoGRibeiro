@@ -24,8 +24,6 @@ I don't really know how u got here, but I will try to show a little bit about my
 
 My name is Lorenzo Ribeiro. I currently live in Belo Horizonte, Brazil and my work is to solve bugs at my job in a manufacturing industry. 
 
-Nowadays I decided to focus on my TwitchTV channel and make entertainment with coding stuffs and build random projects while I try to teach something of these steps of "know how" to my viewers.
-
 ## Detailed information
 
 * **Name**: Lorenzo Ribeiro
